@@ -1,7 +1,7 @@
 criaCartao(
     'Piadas',
     'O queacontece qundo chove na Inglaterra?',
-    'Vir Inglalama'
+    'Vira Inglalama'
 )
 
 criaCartao(
