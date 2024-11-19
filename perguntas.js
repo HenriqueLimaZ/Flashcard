@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Piadas',
+    'O queacontece qundo chove na Inglaterra?',
+    'Vir Inglalama'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Piadas',
+    'Como se chamam a pessoa que viu o Thor de perto?',
+    'Vi-thor'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Piadas',
+    'Porque há uma cama elástica no Polo Norte?',
+    'Para o Urso Polar'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Piadas',
+    'A plantinha foi ao hospital, mas não foi atendida. Por que?',
+    'Porque só tinha médico de Plantão'
+)
+
+criaCartao(
+    'Piadas',
+    'Quando os americanos comeram carne pela primeira vez?',
+    'Quando chegou Cristóvão “Com Lombo”'
+)
+
+criaCartao(
+    'Piadas',
+    'Qual é o melhor chá para a calvíce?',
+    'Chá-peu'
 )
